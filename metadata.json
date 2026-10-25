@@ -1,0 +1,6 @@
+{
+  "name": "GitVerse — The Universe of Code",
+  "description": "Interactive 3D cosmic visualization transforming any GitHub profile into an explorable universe of procedural planets, orbital constellations, and stellar telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
