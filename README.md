@@ -5,6 +5,9 @@
 GitVerse turns software engineering into a living cosmic digital universe. Repositories become distinct planets, programming languages define their physical and chromatic identities, community traction determines planetary scale, and the developer's journey radiates from a central incandescent star.
 
 ---
+<p align="center">
+  <img src="media/GitHub Galaxy of Code Worlds.png" alt="GitVerse Preview" width="800">
+</p>
 <br>
 <p align="center">
   <a href="https://gitverse-three.vercel.app/">
