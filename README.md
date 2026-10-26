@@ -13,7 +13,7 @@ GitVerse turns software engineering into a living cosmic digital universe. Repos
 
 <p align="center">
   <a href="https://gitverse-three.vercel.app/">
-    <img src="https://img.shields.io/badge/Explore%20GitVerse-000000?style=for-the-badge&logoColor=white" alt="Explore GitVerse" height="55">
+    <img src="https://img.shields.io/badge/Explore%20GitVerse-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=FFFFFF" alt="Explore GitVerse">
   </a>
 </p>
 
