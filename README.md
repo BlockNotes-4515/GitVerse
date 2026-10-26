@@ -6,13 +6,12 @@ GitVerse turns software engineering into a living cosmic digital universe. Repos
 
 ---
 <br>
-
-<a href="https://gitverse-three.vercel.app/">
-  <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_GitVerse-8B5CF6?style=for-the-badge" alt="Live Demo">
-</a>
-
-<br><br>
-
+<p align="center">
+  <a href="https://gitverse-three.vercel.app/">
+    <img src="https://img.shields.io/badge/EXPLORE_GITVERSE-0B1F3A?style=for-the-badge&labelColor=0B1F3A&color=0B1F3A" alt="Explore GitVerse">
+  </a>
+</p>
+<br>
 ## Key Features
 
 - **Procedural 3D Planetary Archetypes**:
