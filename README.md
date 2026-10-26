@@ -5,6 +5,13 @@
 GitVerse turns software engineering into a living cosmic digital universe. Repositories become distinct planets, programming languages define their physical and chromatic identities, community traction determines planetary scale, and the developer's journey radiates from a central incandescent star.
 
 ---
+<br>
+
+<a href="https://gitverse-three.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_GitVerse-8B5CF6?style=for-the-badge" alt="Live Demo">
+</a>
+
+<br><br>
 
 ## Key Features
 
